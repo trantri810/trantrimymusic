@@ -38,7 +38,7 @@ $(function()
 	}, {
 		artist: "Reddy (Hữu Duy)",
 		name: "Vài Giây Nữa Thôi",
-		url: "MusicsVaiGiayNuaThoi-ReddyHuuDuy-5404370.mp3",
+		url: "Musics/VaiGiayNuaThoi-ReddyHuuDuy-5404370.mp3",
 		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
 	}, {
 		artist: "Trung Quân",
