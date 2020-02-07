@@ -22,8 +22,8 @@ $(function()
 	
 	var songs = [{
 		artist: "Dig Didzay",
-		name: "Nếu Anh Đi (Cover)",
-		url: "Musics/NeuAnhDi.mp3",
+		name: "Mashup Em Cu Di Di Anh cu di di - Rum",
+		url: "Musics/Mashup Em Cu Di Di Anh cu di di_ - Rum.mp3",
 		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
 	}, {
 		artist: "Reddy (Hữu Duy)",
