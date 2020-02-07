@@ -1,6 +1,6 @@
 # trantrimymusic
  Auto play music by me
-Hàm Shuffle:
+0.Hàm Shuffle:
 Hàm này sẽ xáo thứ tự các item trong 1 Array theo thứ tự ngẫu nhiên. (Dành cho bạn nào muốn Xáo cái list nhạc trước khi nghe).
 
 1.Hàm playPause:
