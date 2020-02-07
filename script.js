@@ -86,11 +86,6 @@ $(function()
 		url: "Musics/PhoKhongEm-ThaiDinh-4475322.mp3",
 		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
 	}, {
-		artist: "Thái Đinh",
-		name: "Em Có Còn Dùng Số Này Không?",
-		url: "Musics/EmCoConDungSoNayKhong.mp3",
-		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
-	}, {
 		artist: "Trung Quân Idol",
 		name: "Dấu Mưa",
 		url: "Musics/DauMua-TrungQuanIdol-2640897.mp3",
