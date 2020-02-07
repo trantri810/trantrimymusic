@@ -25,6 +25,111 @@ $(function()
 		name: "Nếu Anh Đi (Cover)",
 		url: "Musics/NeuAnhDi.mp3",
 		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	}, {
+		artist: "Reddy (Hữu Duy)",
+		name: "Nếu Một Ngày",
+		url: "Musics/NeuMotNgay.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	}, {
+		artist: "Reddy (Hữu Duy)",
+		name: "Gửi",
+		url: "Musics/Gui.flac",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	}, {
+		artist: "Reddy (Hữu Duy)",
+		name: "Vài Giây Nữa Thôi",
+		url: "Musics/VaiGiayNuaThoi.flac",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	}, {
+		artist: "Đức Phúc",
+		name: "Ánh Nắng Của Anh",
+		url: "Musics/AnhNangCuaAnh.flac",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	}, {
+		artist: "Đức Phúc",
+		name: "Hết Thương Cạn Nhớ",
+		url: "Musics/HetThuongCanNho.flac",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	}, {
+		artist: "Đức Phúc",
+		name: "Cũng Đành Thôi",
+		url: "Musics/CungDanhThoi.flac",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	}, {
+		artist: "Đức Phúc",
+		name: "Ta Còn Yêu Nhau",
+		url: "Musics/TaConYeuNhau.flac",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	}, {
+		artist: "Erik",
+		name: "Lạc Nhau Có Phải Muôn Đời",
+		url: "Musics/LacNhauCoPhaiMuonDoi.flac",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	}, {
+		artist: "Hoài Lâm",
+		name: "Phút Ban Đầu",
+		url: "Musics/PhutBanDau.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	}, {
+		artist: "Bùi Anh Tuấn",
+		name: "Hẹn Một Mai",
+		url: "Musics/HenMotMai.flac",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	}, {
+		artist: "Chillies",
+		name: "Và Thế Là Hết",
+		url: "Musics/VaTheLaHet.flac",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	}, {
+		artist: "Dig Didzay",
+		name: "Nếu Anh Đi (Cover)",
+		url: "Musics/NeuAnhDi.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	}, {
+		artist: "Noo Phước Thịnh",
+		name: "Chạm Khẽ Tim Anh Một Chút Thôi",
+		url: "Musics/ChamKheTimAnhMotChutThoi.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	}, {
+		artist: "Noo Phước Thịnh",
+		name: "Thương Em Là Điều Anh Không Thể Ngờ",
+		url: "Musics/ThuongEmLaDieuAnhKhongTheNgo.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	}, {
+		artist: "Thái Đinh",
+		name: "Đi Qua Mùa Hạ",
+		url: "Musics/DiQuaMuaHa.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	}, {
+		artist: "Thái Đinh",
+		name: "Phố Không Em",
+		url: "Musics/PhoKhongEm.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	}, {
+		artist: "Thái Đinh",
+		name: "Em Có Còn Dùng Số Này Không?",
+		url: "Musics/EmCoConDungSoNayKhong.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	}, {
+		artist: "Trung Quân Idol",
+		name: "Chưa Bao Giờ",
+		url: "Musics/ChuaBaoGio.flac",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	}, {
+		artist: "Trung Quân Idol",
+		name: "Chiều Nay Không Có Mưa Bay",
+		url: "Musics/ChieuNayKhongCoMuaBay.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	}, {
+		artist: "Long Phạm",
+		name: "Gió Vẫn Hát",
+		url: "Musics/GioVanHat.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	}, {
+		artist: "Vũ",
+		name: "Lạ Lùng",
+		url: "Musics/ChuaBaoGio.flac",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
 	}];
 	
 	function shuffle(a) {
