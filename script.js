@@ -105,6 +105,26 @@ $(function()
 		name: "Lạ Lùng",
 		url: "Musics/LaLung-Vu-4749614.mp3",
 		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	}, {
+		artist: "Việt",
+		name: "Tình đẹp mấy cũng tàn",
+		url: "Musics/Việt Tình Đẹp Đến Mấy Cũng Tàn (Official Lyrics Video).mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	}, {
+		artist: "Mai Tiến Dũng",
+		name: "Chờ thêm một đời",
+		url: "Musics/ChoThemMotDoi-MaiTienDung-5664132.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	}, {
+		artist: "Mai Tiến Dũng",
+		name: "Yêu như ngày yêu cuối",
+		url: "Musics/YeuNhuNgayYeuCuoi-MaiTienDung-5085422.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	}, {
+		artist: "Juun Đăng Dũng",
+		name: "Mình xa mình yêu",
+		url: "Musics/MinhXaMinhYeu-JuunDangDung-5061958.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
 	}];
 	
 	function shuffle(a) {
